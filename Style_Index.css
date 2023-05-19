@@ -1,0 +1,19 @@
+<style>
+        html{background-color: honeydew;}
+
+        h1{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: blueviolet;
+        text-align: center;}
+
+        h3{font-family:Verdana, Geneva, Tahoma, sans-serif     ;
+        color: rgb(180, 73, 223);
+        text-align: left;}
+        
+        p{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+        text-align: justify;}
+
+        a:hover{background-color: green;
+        color: darkorange;}
+
+
+    </style>
